@@ -5,3 +5,17 @@
 If there isn´t a tk install with `pip install tk`.
 
 `pip list` shows a list with all packages installed. Locate in this list tk, if you don't locate, it's necessary install it with above command.
+
+# Tkinter Programming
+## Basic Structure of Program
+
+Below is a basic structure of a program
+
+```
+From tkinter import *
+
+window = Tk()
+\# Code here
+window.mainloop()
+```
+We can run this program with command line `python3 app.py`. This program shows a window without any functionality.
