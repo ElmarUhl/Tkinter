@@ -19,3 +19,22 @@ window = Tk()
 window.mainloop()
 ```
 We can run this program with command line `python3 app.py`. This program shows a window without any functionality.
+
+## Widgets Classes
+
+- Button
+- Checkbutton
+- Label
+- Entry
+- Pack
+- Grid
+- Frame
+- Listbox
+- Scale
+- Message
+- Radiobutton
+- Menu
+- Spinbox
+- Toplevel
+- StringVar
+- PhotoImage
