@@ -3,7 +3,7 @@ from tkinter import *
 menu = Tk()
 
 menu.title("Button")
-menu.geometry("600x480")
+menu.geometry("200x100")
 
 def cmd_click(mensagem):
     print(mensagem)

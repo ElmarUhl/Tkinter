@@ -2,7 +2,7 @@ from tkinter import *
 
 root = Tk()
 root.title("Title")
-root.geometry("500x300")
+root.geometry("500x150")
 
 label1 = Label(root, text="This is label 1",
                       bg="yellow",
