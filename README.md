@@ -15,7 +15,9 @@ Below is a basic structure of a program
 From tkinter import *
 
 window = Tk()
-\# Code here
+
+# Code here
+
 window.mainloop()
 ```
 We can run this program with command line `python3 app.py`. This program shows a window without any functionality.
